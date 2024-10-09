@@ -1,4 +1,4 @@
-# Daily ATM Withdrawal Demand Prediction with
+# Daily ATM Withdrawal Demand Prediction
 
 ## Initial Dataset
 
