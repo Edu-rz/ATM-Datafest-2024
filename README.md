@@ -20,10 +20,10 @@ Después de presentar nuestra propuesta a un jurado compuesto por expertos en ge
 ## Equipo
 
 El equipo encargado de desarrollar esta solución estuvo conformado por:
-- [Walter Díaz](https://www.linkedin.com/in/waltdiaz/)
-- [Eduardo Ramón](https://www.linkedin.com/in/eram%C3%B3n/)
-- [Gustavo Rodas](https://www.linkedin.com/in/gustavo-rodas/)
-- [Renzo Saucedo](https://www.linkedin.com/in/renzosaucedos/)
-- [Diana Villalva](https://www.linkedin.com/in/diana-villalva-gomez-346a93272/)
+- [Díaz, Walter](https://www.linkedin.com/in/waltdiaz/)
+- [Ramón, Eduardo](https://www.linkedin.com/in/eram%C3%B3n/)
+- [Rodas, Gustavo](https://www.linkedin.com/in/gustavo-rodas/)
+- [Saucedo, Renzo](https://www.linkedin.com/in/renzosaucedos/)
+- [Villalva, Diana](https://www.linkedin.com/in/diana-villalva-gomez-346a93272/)
 
 ![Datafest 2024](./assets/datafest2024.jpeg)
