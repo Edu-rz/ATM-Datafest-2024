@@ -1,25 +1,25 @@
 # DATAFEST 2024 - ESAN & BCP 🎉
 
-[**Datafest 2024**](https://www.linkedin.com/posts/universidad-esan_as%C3%AD-arranc%C3%B3-el-datafest-2024-en-esan-activity-7245619294036725760-JMPw/?originalSubdomain=es) es el evento de analítica de datos más destacado y desafiante del Perú, donde 11 universidades se enfrentan en un emocionante concurso de análisis de datos reales. Este año, nuestro objetivo fue desarrollar una **solución innovadora** para optimizar el reabastecimiento de cajeros automáticos del BCP, combinando un modelo predictivo de demanda con un algoritmo de optimización para maximizar la eficiencia operativa y minimizar costos. 💡💰
+[**Datafest 2024**](https://www.linkedin.com/posts/universidad-esan_as%C3%AD-arranc%C3%B3-el-datafest-2024-en-esan-activity-7245619294036725760-JMPw/?originalSubdomain=es) is the most prominent and challenging data analytics event in Peru, where 11 universities compete in an exciting contest of analyzing real-world data. This year, our goal was to develop an **innovative solution** to optimize the replenishment of BCP's ATMs by combining a predictive demand model with an optimization algorithm to maximize operational efficiency and minimize costs. 💡💰
 
-## Desafío y Solución
+## Challenge and Solution
 
-El desafío consistió en **optimizar la gestión de efectivo** en los cajeros automáticos (ATMs) del BCP, asegurando la disponibilidad de efectivo para los clientes. Para ello, se identificaron dos estrategias clave:
+The challenge was to **optimize cash management** in BCP's ATMs, ensuring cash availability for customers. Two key strategies were identified:
 
-1. **Predicción de la demanda de efectivo.** 📊
-2. **Optimización del abastecimiento.** ⚙️
+1. **Predicting cash demand.** 📊
+2. **Optimizing cash replenishment.** ⚙️
 
-Después de presentar nuestra propuesta a un jurado compuesto por expertos en gestión y análisis de datos, ¡nos sentimos orgullosos de haber obtenido el **segundo lugar** en la competencia! 🥈
+After presenting our proposal to a jury composed of experts in management and data analytics, we are proud to have achieved **second place** in the competition! 🥈
 
-## Lecciones Aprendidas
+## Lessons Learned
 
-1. **Enfoque en el problema del negocio:** Centrar nuestra atención en el problema real permitió enriquecer nuestras propuestas y diseñar estrategias efectivas.
-2. **Comprensión profunda del contexto:** Dedicar tiempo a entender el problema y su entorno facilitó la formulación de soluciones adaptadas a la realidad del negocio.
-3. **Calidad de los datos:** Asegurar la integridad de los datos utilizados fue fundamental para la fiabilidad de nuestras predicciones y recomendaciones. 📈
+1. **Focus on the business problem:** Concentrating on the real problem enriched our proposals and led to effective strategy design.
+2. **Deep understanding of the context:** Taking the time to understand the problem and its environment helped us formulate solutions tailored to the business reality.
+3. **Data quality:** Ensuring the integrity of the data used was essential for the reliability of our predictions and recommendations. 📈
 
-## Equipo
+## Team
 
-El equipo encargado de desarrollar esta solución estuvo conformado por:
+The team responsible for developing this solution included:
 - [Díaz, Walter](https://www.linkedin.com/in/waltdiaz/)
 - [Ramón, Eduardo](https://www.linkedin.com/in/eram%C3%B3n/)
 - [Rodas, Gustavo](https://www.linkedin.com/in/gustavo-rodas/)
